@@ -1,0 +1,43 @@
+
+
+
+body {
+  background-color: rgb(240, 240, 216);
+  max-width: 1000px;
+  min-width: 600px;
+  margin: 0px 0px 0px 0px;
+
+}
+div.wrapper{
+
+}
+header {
+  background-color: rgb(96,72,72);
+  text-align: left;
+  font-family: helvetica;
+  color: white;
+  width: 100%;
+  margin-bottom: 0px;
+
+}
+nav{
+  background-color: rgb(96,72,72);
+  text-align: left;
+  font-family: helvetica;
+  color: white;
+  width: 100%;
+  margin-top: 0px;
+}
+
+h1{
+  padding: 10px 10px 0px 10px;
+}
+
+h2{
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+section{
+  margin: 10px 10px 10px 10px;
+}
